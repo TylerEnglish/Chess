@@ -3,7 +3,7 @@
 ***It's a basic chess game I wanted to write it to learn more on object oriented programing***
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/EQYTeA_eLhE)
 
 # Development Environment
 
